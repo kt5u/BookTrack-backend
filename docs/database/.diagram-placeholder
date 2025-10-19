@@ -1,0 +1,13 @@
+# Add Your Database Diagram Here
+
+Please export your database diagram from dbdiagram.io and add it to this directory.
+
+Supported formats:
+- PNG (recommended)
+- JPEG
+- PDF
+- SVG
+
+Example filename: `database-diagram.png` or `booktrack-schema.png`
+
+After adding the diagram, update the README.md in this directory to reference it.
